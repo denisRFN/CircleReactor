@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Circle Reactor</string>
+    <string name="accessibility_description">Allows Circle Reactor to tap your own test game when a circle changes color.</string>
+</resources>
